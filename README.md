@@ -513,30 +513,9 @@ Restarted the Splunk Universal Forwarder successfully.
 
 ## 🧠 Skills Developed
 
-### Linux Administration
-- Fedora Linux installation and configuration
-- User and group management
-- File ownership and permissions
-- Package management using DNF
-- Filesystem formatting and mounting
-- systemd service administration
-- Scheduled system updates
-
-### Security Engineering
-- SSH hardening
-- Public-key authentication
-- Least-privilege service accounts
-- Firewall configuration review
-- Security logging permissions
-- Network service verification
-
-### Security Monitoring
-- Splunk Universal Forwarder installation
-- SIEM forwarding configuration
-- Linux authentication log collection preparation
-- Network connectivity troubleshooting
-- Splunk internal log analysis
-
+- **Linux Administration:** Fedora Server deployment, user permissions, filesystem management, DNF, and systemd.
+- **Security Engineering:** SSH hardening, key-based authentication, least privilege, and firewall configuration.
+- **Security Monitoring:** Splunk Universal Forwarder deployment, SIEM connectivity, Linux log collection, and troubleshooting.
 ---
 
 ## 🚀 Future Improvements
